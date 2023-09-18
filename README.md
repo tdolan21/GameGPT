@@ -44,7 +44,7 @@ pip install gymnasium openai tenacity python-dotenv
     observation, info = env.reset()
     agent.reset()
     obs_message = agent.observe(observation)
-    ```
+```
 
 4. Perform actions and get observations:
 
