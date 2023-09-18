@@ -18,7 +18,7 @@ GymnasiumAgent is a Python application that serves as an interface between an Op
 ## Installation
 
 # Install the required packages
-```
+```python
 git clone https://github.com/tdolan21/GameGPT.git
 cd GameGPT
 pip install gymnasium openai tenacity python-dotenv
